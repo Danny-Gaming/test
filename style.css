@@ -1,0 +1,14 @@
+body {
+    background-color: skyblue ;
+    color: rgb(13, 255, 0) ;
+}
+p {
+    color: white;
+    background-color: blue;
+}
+h1 {
+    background-color: green;
+}
+h2 {
+    color:red
+}
